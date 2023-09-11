@@ -83,6 +83,15 @@ a {
     padding: 5px 10px;
 }
 
+.detail2 ol {
+    padding: 0;
+    margin: 0;
+    list-style-position: ;
+    display: grid;
+    grid-template-columns: none;
+}
+
+
 section {
     padding: 20px;
     background-color: #fff;
